@@ -1,6 +1,7 @@
 import { Message } from 'src/shared/types'
 import Base, { onResultChange } from './base'
 import { ApiError } from './errors'
+import { log } from 'console'
 
 // import ollama from 'ollama/browser'
 
